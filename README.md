@@ -23,7 +23,6 @@
 
 ## 🛠️ Tecnologías y herramientas
 
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=html,css,js,python,java,github,vscode,windows" />
 
